@@ -1,0 +1,12 @@
+streamlit
+speechrecognition
+gtts
+langdetect
+deep-translator
+pillow
+numpy
+pandas
+scikit-learn
+joblib
+requests
+tk
